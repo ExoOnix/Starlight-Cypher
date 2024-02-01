@@ -1,0 +1,8 @@
+@font-face {
+  font-family: Starlight;
+  src: url(/static/styles/Starlight-Regular.ttf);
+}
+
+.fn {
+    font-family: Starlight;
+}
